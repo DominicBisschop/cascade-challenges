@@ -1,0 +1,10 @@
+.mainLayout {
+  min-height: 100dvh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
+.mainContainer {
+  height: 100%;
+  width: 100%;
+}

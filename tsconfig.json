@@ -10,11 +10,10 @@
   },
   "include": [
     "src/components",
-    "src/containers",
     "src/pages",
-    "src/util",
+    "src/layouts",
+    "src/routing",
     "src/styles",
-    "src/shapes",
     "src/custom.d.ts"
   ]
 }
